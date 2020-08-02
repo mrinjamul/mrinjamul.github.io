@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+Sitemap: https://mrinjamul.github.io/sitemap.xml
 User-agent: *
 Disallow:
