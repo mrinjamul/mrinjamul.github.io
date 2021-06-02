@@ -3,7 +3,7 @@
 echo "Cleaning Up..."
 sleep 2
 
-GLOBIGNORE=*.sh:*.md:.git*
+GLOBIGNORE=*.sh:*.md:.git*:CNAME
 
 rm -rfv *
 
