@@ -15,11 +15,29 @@
     </image:image>
   </url>
   <url>
-    <loc>https://mrinjamul.github.io</loc>
+    <loc>https://mrinjamul.github.io/resume</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <image:image>
        <image:loc>https://mrinjamul.github.io/profile.jpg</image:loc>
+       <image:caption>Injamul Mohammad Mollah</image:caption>
+    </image:image>
+  </url>
+    <url>
+    <loc>https://mrinjamul.is-a.dev</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+       <image:loc>https://mrinjamul.is-a.dev/profile.jpg</image:loc>
+       <image:caption>Injamul Mohammad Mollah</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mrinjamul.is-a.dev/resume</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+       <image:loc>https://mrinjamul.is-a.dev/profile.jpg</image:loc>
        <image:caption>Injamul Mohammad Mollah</image:caption>
     </image:image>
   </url>
